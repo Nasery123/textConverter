@@ -1,0 +1,19 @@
+body{
+    padding-top: 50px;
+    padding-left: 50px;
+    justify-content: center;
+    align-items: center;
+    background-image: url('https://t4.ftcdn.net/jpg/02/32/15/79/240_F_232157990_WaJh0W6peV8547DfCj9kpAEM7eWcBFmY.jpg');
+
+}
+textarea{
+    width: 530px;
+    height: 200px;
+    background-color: black;
+    color: white;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+select{
+    height: 35px;
+}
